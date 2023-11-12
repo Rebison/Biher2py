@@ -2,6 +2,11 @@ LICENSE
 README.md
 pyproject.toml
 setup.py
+Biher2py/__init__.py
+Biher2py/all.py
+Biher2py/mod.py
+Biher2py/program10.py
+Biher2py/program8.py
 Biher2py.egg-info/PKG-INFO
 Biher2py.egg-info/SOURCES.txt
 Biher2py.egg-info/dependency_links.txt
